@@ -2,13 +2,13 @@
 
 My name is Edward Beesley (he/him), and I'm a London-based full-stack developer :uk:
 
+I am a mid-level backend Rails developer, having worked in the industry since 2022.
+
 I'm an alumni from Le Wagon :minibus: - having completed their 24-week part-time Web Development bootcamp in July 2022
 
 I've developed skills in Ruby on Rails, JavaScript ES6, HTML, CSS & Bootstrap, SQL & ActiveRecord, git & GitHub and Heroku staging.
 
-You can check out my bootcamp projects, including our final Rails web app - Fresh Pics, either through the repo or by visiting www.freshpics.me :movie_camera: - it's a great movie recommendation site that gives you succinct suggestions, based on what you're in the mood for and what streaming services you have access to.
-
-I'm now furthering my skills in React and node.js, among others and looking to work on new projects!
+I develop primarily with BitBucket rather than GitHub, but am looking to expand my contributions to open source repos.
 
 <!--
 **EdBeese/EdBeese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
